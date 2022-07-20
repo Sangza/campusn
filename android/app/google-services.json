@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573749813004",
+    "project_id": "campus-pay-c7d69",
+    "storage_bucket": "campus-pay-c7d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573749813004:android:ef480a5bd36636db1b3329",
+        "android_client_info": {
+          "package_name": "com.example.campus_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573749813004-iheiokg484gravrv2p3clba8uqsfkbfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campus_pay",
+            "certificate_hash": "b296c1d2b641b211b7b4c644b589f266d42a30ae"
+          }
+        },
+        {
+          "client_id": "573749813004-9d64jk53rcbdbv7m99m458bnis56qm8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEei9hU-NL95bV4_9UXi-cXK4702lE00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {  
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573749813004-9d64jk53rcbdbv7m99m458bnis56qm8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
